@@ -1,0 +1,5 @@
+../Core/Src/ApplicationCode.c:25:6:buttonInterruptInit	8	static
+../Core/Src/ApplicationCode.c:29:6:generateBlock	8	static
+../Core/Src/ApplicationCode.c:33:6:ApplicationInit	8	static
+../Core/Src/ApplicationCode.c:62:6:LCD_Touch_Polling_Demo	8	static
+../Core/Src/ApplicationCode.c:169:6:EXTI0_IRQHandler	8	static

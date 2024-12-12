@@ -1,0 +1,6 @@
+../Core/Src/Game_Driver.c:211:6:Game_PlaceBlock	32	static
+../Core/Src/Game_Driver.c:226:6:Game_GenerateBlock	8	static
+../Core/Src/Game_Driver.c:231:6:Game_BlockRotate	16	static
+../Core/Src/Game_Driver.c:252:6:Game_BlockMoveDown	16	static
+../Core/Src/Game_Driver.c:265:6:Game_CheckCollision	16	static
+../Core/Src/Game_Driver.c:289:6:Game_Start	24	static
